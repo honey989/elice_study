@@ -1,3 +1,4 @@
+# LV2. 탐욕법(Greedy) - 구명보트
 def solution(people, limit):
     answer = 0
     # 오름차순 정렬
